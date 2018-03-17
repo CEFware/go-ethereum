@@ -19,6 +19,6 @@ package params
 // MainnetBootnodes are the enode URLs of the P2P bootstrap nodes running on the ALT ETH Mainnet
 var MainnetBootnodes = []string{
 	// ALT Ethereum Go Bootnodes
-	"enode://db16c2fd27f6a0826272124a1fd198eb0f3f73e7b2c1c9b6cfd2b1a10c8ea1c29b2d3258fc353f4c12e69cb6299df3ec4c2ee6fe06a07425f434f4c7120a4b96@45.33.103.165:30303"; // Atlanta
+	"enode://db16c2fd27f6a0826272124a1fd198eb0f3f73e7b2c1c9b6cfd2b1a10c8ea1c29b2d3258fc353f4c12e69cb6299df3ec4c2ee6fe06a07425f434f4c7120a4b96@45.33.103.165:30303", // Atlanta
 }
 
